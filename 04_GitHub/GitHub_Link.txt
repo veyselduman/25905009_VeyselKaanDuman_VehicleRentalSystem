@@ -1,0 +1,7 @@
+Ders Kodu ve Adı: BGY203 / YBS223 - Nesne Tabanlı Programlama
+Öğretim Elemanı: Dr. Öğr. Üyesi Tohid YOUSEFİ
+Geliştirici Öğrenci: Veysel Kaan Düman (25905009)
+Teslim Tarihi: 20/11/2026
+
+GitHub Repository Bağlantısı:
+https://github.com/veyselduman/25905009_VeyselKaanDuman_VehicleRentalSystem
